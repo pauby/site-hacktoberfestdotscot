@@ -1,5 +1,5 @@
 ---
-team:
+organisers:
   enable: true
   title: Organisers
   team_member:
@@ -41,7 +41,7 @@ team:
       link: https://mvp.microsoft.com/en-us/mvp/Craig%20%20Porteous-5003301
     - icon: ti-home
       link: https://craigporteous.com/
-title: organiser.yml
+title: organisers.yml
 menu:
   main:
     name: organisers
