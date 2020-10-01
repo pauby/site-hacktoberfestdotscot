@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/satire.jpg
-  bg_image_webp: ''
+  bg_image: images/saltire.jpg
+  bg_image_webp: images/saltire.webp
   title: Get Your Ticket For Hacktoberfest Scotland
   content: ''
   button:
