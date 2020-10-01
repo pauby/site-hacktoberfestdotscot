@@ -19,4 +19,8 @@ skill:
   - name: Android Development
     percent: 75%
 title: agenda.yml
+menu:
+  main:
+    name: agenda
+    weight: 3
 draft: true

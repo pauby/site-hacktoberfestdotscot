@@ -72,3 +72,7 @@ team:
     - icon: ti-dribbble
       link: "#"
 title: organiser.yml
+menu:
+  main:
+    name: organisers
+    weight: 1
