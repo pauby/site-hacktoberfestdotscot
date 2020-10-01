@@ -1,11 +1,11 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/hacktoberfest-2020-banner.jpg
+  bg_image_webp: ''
+  title: Get Your Ticker For Hacktoberfest Scotland
+  content: ''
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Register Now
+    link: https://organize.mlh.io/participants/events/4396-hacktoberfest-scotland
