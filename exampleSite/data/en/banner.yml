@@ -1,12 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: "/images/hacktoberfest-2020-banner.jpg"
+  bg_image: "/images/hacktoberfest-2020-banner.jpg"
+  icon: ''
+  title: Hacktoberfest Scotland
+  content: In our third year of organising a Hacktoberfest event in Scotland, we know
+    this time it will be a little different....
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Register Now
+    link: https://organize.mlh.io/participants/events/4396-hacktoberfest-scotland
