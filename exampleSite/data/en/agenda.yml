@@ -6,18 +6,31 @@ agenda:
   content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
     magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image: images/about/company-growth.webp
+
+      12:00 - 12:15 - Virtual mingle
+      12:15 - 12:30 - Introduction by Craig Porteous and Paul Broadwith
+      12:30 - 13:30 - Brett Miller - GitOps - Demystifying Git for Ops Folk
+      13:30 - 14:30 - Chrissy LeMaire - GitHub Galore - My top 3 favorite new features!
+      14:30 - 15:30 - Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager
+
+    Feel free to enter and leave the Sessions channel for the sessions you wish to see. Please be considerate and remain muted unless asking a question.
+  image: ''
   agenda_item:
-  - name: Business Development
+  - name: General Channel
+      12:15 - 12:30 - A warm welcome to everyone and a run through of the agenda and where everything is in the Hacktoberfest Scotland Microsoft Teams area.
+      12:30 - 17:00 - Networking and closing social Jump in for a chat at any time and join us at the end of the day for a wind down drink.
     percent: 90%
-  - name: Analysis
+  - name: Sessions Channel
+      12:30 - 13:30 - Brett Miller - GitOps - Demystifying Git for Ops Folk
+      13:30 - 14:30 - Chrissy LeMaire - GitHub Galore - My top 3 favorite new features!
+      14:30 - 15:30 - Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager
     percent: 70%
-  - name: Design
+  - name: My First Hacktoberfest Channel
+      12:30 - 15:00 - General chat workshop with help from our team on how to get started with open source and doing your first Hacktoberfest!
     percent: 80%
-  - name: IOS Development
+  - name: Hacking channel
+      12:30 - 16:00 - Get hacking! Free chat around contributing, projects, repos, code and everything in between!
     percent: 95%
-  - name: Android Development
-    percent: 75%
 title: agenda.yml
 menu:
   main:
