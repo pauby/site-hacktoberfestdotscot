@@ -1,11 +1,11 @@
 ---
-agenda:
+channels:
   enable: true
-  title: Our Agenda
+  title: Our Channels
   subtitle: We have a fun, interesting and entirely awesome agenda!
   content: We've lined up some great places for you to hang out! Come and listen
     to our wonderful speakers, get help with your first PR or just have a chat!
-  agenda_item:
+  channels_item:
   - name: General Channel
     percent: 90%
   - name: Sessions Channel
@@ -14,8 +14,8 @@ agenda:
     percent: 80%
   - name: Hacking channel
     percent: 95%
-title: agenda.yml
+title: channels.yml
 menu:
   main:
-    name: agenda
+    name: channels
     weight: 3
