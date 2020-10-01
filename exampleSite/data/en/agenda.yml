@@ -1,6 +1,6 @@
 ---
 agenda:
-  enable: false
+  enable: true
   title: Our Agenda
   subtitle: We have a fun, interesting and entirely awesome agenda!
   content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
