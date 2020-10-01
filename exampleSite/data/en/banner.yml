@@ -5,8 +5,7 @@ banner:
   bg_image: "/images/hacktoberfest-2020-banner.jpg"
   icon: ''
   title: Hacktoberfest Scotland
-  content: In our third year of organising a Hacktoberfest event in Scotland, we know
-    this time it will be a little different....
+  content: 10 October from 12pm to 4pm BST (11am to 3pm UTC)
   button:
     enable: true
     label: Register Now
