@@ -20,6 +20,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "agenda"
+pre = "#"
+url = "agenda"
+weight = "1"
+[[menu.main]]
+name = "speakers"
+pre = "#"
+url = "speakers"
+weight = "2"
+[[menu.main]]
+name = "organisers"
+pre = "#"
+url = "organisers"
+weight = "3"
+[[menu.main]]
 name = "about"
 pre = "#"
 url = "about"
