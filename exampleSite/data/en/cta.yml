@@ -9,3 +9,4 @@ cta:
     enable: true
     label: Register Now
     link: https://organize.mlh.io/participants/events/4396-hacktoberfest-scotland
+draft: true
