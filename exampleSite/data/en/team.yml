@@ -7,7 +7,7 @@ team:
     image_webp: ''
     image: images/brett-miller.jpg
     designation: GitOps - Demystifying Git for Ops Folk
-    content: Brett I have worked in IT around 10 years and have been a System Administrator
+    content: I have worked in IT around 10 years and have been a System Administrator
       for around 3 of those years. I began learning Powershell as a means to automate
       dull tasks, mainly around Active Directory, and I caught the bug. I now spend
       most of my day either in VSCode or a Powershell console in some way shape or
@@ -46,10 +46,10 @@ team:
     image_webp: ''
     image: images/gary-ewan-park.jpg
     designation: Control your GitHub Releases with GitVersion and GitReleaseManager
-    content: |-
-      For my sins, I am a self-confessed Microsoft Fan Boy. I don’t know what else to say other than I think that the .Net Framework is a great platform to build on, and I really can’t get enough of it. I am a certified Microsoft Developer, and I am more than happy to talk at length about anything geek related, so if you have any questions, feel free to get in touch.
-
-      In addition to coding, I love automating things. Especially around automated deployment of code, as well as infrastructure. Automate all the things!
+    content: I am a self-confessed Microsoft Fan Boy. I am a certified Microsoft Developer,
+      and I am more than happy to talk at length about anything geek related. In addition
+      to coding, I love automating things. Especially around automated deployment
+      of code, as well as infrastructure. Automate all the things!
     social:
     - icon: ti-github
       link: https://github.com/gep13
