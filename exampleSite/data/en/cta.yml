@@ -1,9 +1,9 @@
 ---
 cta:
   enable: true
-  bg_image: images/hacktoberfest-2020-banner.jpg
+  bg_image: images/hacktoberfest-sponsors.png
   bg_image_webp: ''
-  title: Get Your Ticker For Hacktoberfest Scotland
+  title: Get Your Ticket For Hacktoberfest Scotland
   content: ''
   button:
     enable: true
