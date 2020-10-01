@@ -1,17 +1,21 @@
 ---
 about:
-  enable: false
-  title: About Us
+  enable: true
+  title: Our Agenda
   about_item:
-  - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-time
+    title: 12:00 to 12:15
+    content: A virtual mingle in our General Channel.
+  - icon: ti-time
+    title: 12:15 to 12:30
+    content: Introduction from Craig and Paul in our General Channel
+  - icon: ti-time
+    title: 12:30 to 13:30
+    content: Brett Miller - GitOps - Demystifying Git for Ops Folk
+  - icon: ti-time
+    title: 13:30 to 14:30
+    content: Chrissy LeMaire - GitHub Galore - My top 3 favorite new features!
+  - icon: ti-time
+    title: 14:30 to 15:30
+    content: Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager
+  image: ''
