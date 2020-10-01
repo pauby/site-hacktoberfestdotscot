@@ -1,5 +1,5 @@
 baseURL = "https://hacktoberfest.scot"
-disableLanguages = []
+disableLanguages = ['fr']
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -30,8 +30,8 @@ pre = "#"
 url = "organisers"
 weight = "2"
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Hacktoberfest Scotland"
+description = "Hacktoberfest Scotland 2020"
 google_analytics_id = ""
 logo = "images/hacktoberfest-scotland-logo.png"
 post_share = false
