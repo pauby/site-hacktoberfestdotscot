@@ -1,41 +1,46 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Organisers
   team_member:
-  - name: Brett Miller
+  - name: Paul Broadwith
     image_webp: ''
-    image: images/brett-miller.jpg
-    designation: GitOps - Demystifying Git for Ops Folk
-    content: Brett I have worked in IT around 10 years and have been a System Administrator
-      for around 3 of those years. I began learning Powershell as a means to automate
-      dull tasks, mainly around Active Directory, and I caught the bug. I now spend
-      most of my day either in VSCode or a Powershell console in some way shape or
-      form.
+    image: images/paul-broadwith.jpg
+    designation: 5 Year Hacktoberfest Veteran!
+    content: |-
+      This will be my 5th Hacktoberfest that I have participated in and my 3rd year organising an event!
+
+      I'm a Microsoft Cloud and Datacenter MVP and Microsoft Certified Trainer, a DevOps Engineer with a love of PowerShell, Automation, Chocolatey, Scottish single malt whisky and wireless earphones. I've given workshops and spoken at different events across the UK, Europe and the US. Being in IT for almost 30 years, I have a real passion for passing on knowledge and talking with aspiring techies.
     social:
-    - icon: ti-facebook
-      link: "#"
+    - icon: ti-github
+      link: https://github.com/pauby
     - icon: ti-twitter-alt
-      link: "#brettmiller_it"
+      link: https://twitter.com/pauby
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Frank Miller
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+      link: https://linkedin.com/in/paulbroadwith
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/mvp/Paul%20Broadwith-5003387
+    - icon: ti-home
+      link: https://blog.pauby.com
+  - name: Craig Porteous
+    image_webp: ''
+    image: images/craig-porteous.jpg
+    designation: 4 Year Hacktoberfest Veteran!
+    content: |-
+      I'm a Senior Data Engineer and Microsoft Data Platform MVP. I have worked with the Data Platform for more than a decade, supporting global BI Environments, automating processes with PowerShell and implementing BI Solutions. More recently I’ve taken up speaking to share my knowledge and experience at conferences and user groups across Europe.
+
+      This is my 4th year of participating in Hacktoberfest and my 3rd year organising an event with Paul.
     social:
-    - icon: ti-facebook
-      link: "#"
+    - icon: ti-github
+      link: https://github.com/cporteou
     - icon: ti-twitter-alt
-      link: "#"
+      link: http://twitter.com/cporteous
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+      link: https://www.linkedin.com/in/craigporteous/
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/mvp/Craig%20%20Porteous-5003301
+    - icon: ti-home
+      link: https://craigporteous.com/
   - name: Michael Jonson
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
