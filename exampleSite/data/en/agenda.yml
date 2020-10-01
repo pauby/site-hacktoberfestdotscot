@@ -7,20 +7,12 @@ agenda:
     to our wonderful speakers, get help with your first PR or just have a chat!
   agenda_item:
   - name: General Channel
-      You'll receive a warm welcome in our chat channel! This is where we will
-      start with out introduction at 12:15pm. Jump back here for a chat at any
-      time and join us at the end of the day!
     percent: 90%
   - name: Sessions Channel
-      This is where our wonderful speakers will be talking to you. Feel free to
-      enter and leave the Sessions channel for the sessions you wish to see.
-      Please be considerate and remain muted unless asking a question.
     percent: 70%
   - name: My First Hacktoberfest Channel
-      General chat workshop with help from our team on how to get started with open source and doing your first hacktoberfest
     percent: 80%
   - name: Hacking channel
-      Get those PR's done! Free chat around contributing, projects, repos, code and everything in between.
     percent: 95%
 title: agenda.yml
 menu:
