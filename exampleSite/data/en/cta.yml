@@ -4,7 +4,20 @@ cta:
   bg_image: images/saltire.jpg
   bg_image_webp: ''
   title: Get Your Ticket For Hacktoberfest Scotland
-  content: ''
+  content: |
+    We've lined up some great places for you to hang out! Come and listen to our wonderful speakers, get help with your first PR or just have a chat!
+
+      12:00 - 12:15 - Virtual mingle [General Channel]
+
+      12:15 - 12:30 - Introduction by Craig Porteous and Paul Broadwith [General Channel]
+
+      12:30 - 13:30 - Brett Miller - GitOps - Demystifying Git for Ops Folk [Sessions Channel]
+
+      13:30 - 14:30 - Chrissy LeMaire - GitHub Galore - My top 3 favorite new features! [Sessions Channel]
+
+      14:30 - 15:30 - Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager [Sessions Channel]
+
+    Feel free to enter and leave the Sessions channel for the sessions you wish to see. Please be considerate and remain muted unless asking a question.
   button:
     enable: true
     label: Register Now
