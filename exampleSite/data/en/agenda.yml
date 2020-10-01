@@ -1,5 +1,5 @@
 ---
-skill:
+agenda:
   enable: false
   title: Our Agenda
   subtitle: We have a fun, interesting and entirely awesome agenda!
@@ -7,7 +7,7 @@ skill:
     magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
-  skill_item:
+  agenda_item:
   - name: Business Development
     percent: 90%
   - name: Analysis
