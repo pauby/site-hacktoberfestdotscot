@@ -1,4 +1,8 @@
 .call-to-action h2 {
-  color: #ffffff;
+  color: #000;
   text-shadow: 2px 2px #000000;
+}
+
+.call-to-action p {
+    color: #000;
 }
