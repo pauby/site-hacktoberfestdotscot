@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/hacktoberfest-white.jpg
-  bg_image_webp: images/hacktoberfest-white.webp
+  bg_image: "/images/hacktoberfest-2020-banner.jpg"
+  bg_image_webp: "/images/hacktoberfest-2020-banner.webp"
   title: Get Your Ticket For Hacktoberfest Scotland
   content: |
     This event is organised by Craig Porteous and Paul Broadwith. This is the third year we have organised and hosted a #Hacktoberfest event but this one will be a little different.
