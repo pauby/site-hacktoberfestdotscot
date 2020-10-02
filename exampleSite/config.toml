@@ -20,30 +20,25 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "REGISTER!"
-pre = "#"
-url = "cta"
-weight = "1"
-[[menu.main]]
 name = "speakers"
 pre = "#"
 url = "speakers"
-weight = "2"
+weight = "1"
 [[menu.main]]
 name = "agenda"
 pre = "#"
 url = "agenda"
-weight = "3"
+weight = "2"
 [[menu.main]]
 name = "rooms"
 pre = "#"
 url = "channels"
-weight = "4"
+weight = "3"
 [[menu.main]]
 name = "organisers"
 pre = "#"
 url = "organisers"
-weight = "5"
+weight = "4"
 [params]
 author = "Hacktoberfest Scotland"
 description = "Hacktoberfest Scotland 2020"
