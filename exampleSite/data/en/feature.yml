@@ -1,11 +1,10 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
-  title: We’re A Digital Design Agency.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  image: images/saltire.jpg
+  image_webp: ''
+  title: Our Agenda.
+  content: ''
   feature_item:
   - title: 12:00 to 12:15
     icon: ti-time
