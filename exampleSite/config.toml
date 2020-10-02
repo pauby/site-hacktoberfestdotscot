@@ -83,6 +83,10 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
+
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Fira+Sans&family=Roboto&display=swap"
+
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
