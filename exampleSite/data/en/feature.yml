@@ -2,7 +2,7 @@
 feature:
   enable: true
   image: images/saltire.jpg
-  image_webp: ''
+  image_webp: images/saltire.webp
   title: Our Agenda.
   content: ''
   feature_item:
