@@ -8,19 +8,19 @@ feature:
   feature_item:
   - title: 12:00 to 12:15
     icon: ti-time
-    content: A virtual mingle in our General Channel.
+    content: A virtual mingle in our General Room.
   - title: 12:15 to 12:30
     icon: ti-time
-    content: Introduction from Craig and Paul in our General Channel.
+    content: Introduction from Craig and Paul in our General Room.
   - title: 12:30 to 13:30
     icon: ti-time
-    content: Brett Miller - GitOps - Demystifying Git for Ops Folk
+    content: Brett Miller - GitOps - Demystifying Git for Ops Folk in the Session Room
   - title: 13:30 to 14:30
     icon: ti-time
-    content: Chrissy LeMaire - GitHub Galore - My top 3 favorite new features!
+    content: Chrissy LeMaire - _GitHub Galore - My top 3 favorite new features_ in the Session Room
   - title: 14:30 to 15:30
     icon: ti-time
-    content: Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager
+    content: Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager in the Session Room
   - title: 15:30 to 17:00
     icon: ti-time
-    content: Join us in the General Channel for the after party chat!
+    content: Join us in the General Room for the after party chat!
