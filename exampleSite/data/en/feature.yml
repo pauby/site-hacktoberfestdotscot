@@ -14,13 +14,13 @@ feature:
     content: Introduction from Craig and Paul in our General Room.
   - title: 12:30 to 13:30
     icon: ti-time
-    content: Brett Miller - GitOps - Demystifying Git for Ops Folk in the Session Room
+    content: Brett Miller - _GitOps - Demystifying Git for Ops Folk_ in the Session Room
   - title: 13:30 to 14:30
     icon: ti-time
     content: Chrissy LeMaire - _GitHub Galore - My top 3 favorite new features_ in the Session Room
   - title: 14:30 to 15:30
     icon: ti-time
-    content: Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager in the Session Room
+    content: Gary Park - _Control your GitHub Releases with GitVersion and GitReleaseManager_ in the Session Room
   - title: 15:30 to 17:00
     icon: ti-time
     content: Join us in the General Room for the after party chat!
