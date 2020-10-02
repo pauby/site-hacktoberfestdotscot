@@ -5,7 +5,7 @@ team:
   team_member:
   - name: Brett Miller
     image_webp: ''
-    image: images/brett-miller.jpg
+    image: images/brett-miller-col.jpg
     designation: GitOps - Demystifying Git for Ops Folk
     content: I have worked in IT around 10 years and have been a System Administrator
       for around 3 of those years. I began learning Powershell as a means to automate
@@ -25,7 +25,7 @@ team:
       link: https://millerb.co.uk
   - name: Chrissy LeMaire
     image_webp: ''
-    image: images/chrissy-lemaire.jpg
+    image: images/chrissy-lemaire-col.jpg
     designation: 'GitHub Galore: My top 3 favorite new features!'
     content: 'Chrissy is a dual Microsoft MVP who has worked in IT for over 20 years.
       She is the creator of the popular SQL PowerShell module dbatools, holds a master''s
@@ -44,7 +44,7 @@ team:
       link: https://dbatools.io
   - name: Gary Ewan Park
     image_webp: ''
-    image: images/gary-ewan-park.jpg
+    image: images/gary-ewan-park-col.jpg
     designation: Control your GitHub Releases with GitVersion and GitReleaseManager
     content: I am a self-confessed Microsoft Fan Boy. I am a certified Microsoft Developer,
       and I am more than happy to talk at length about anything geek related. In addition

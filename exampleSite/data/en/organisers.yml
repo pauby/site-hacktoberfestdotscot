@@ -5,7 +5,7 @@ organisers:
   team_member:
   - name: Paul Broadwith
     image_webp: ''
-    image: images/paul-broadwith.jpg
+    image: images/paul-broadwith-col.jpg
     designation: Hacktoberfest Scotland Organiser
     content: |-
       This will be my 5th Hacktoberfest that I have participated in and my 3rd year organising an event with Craig!
@@ -24,7 +24,7 @@ organisers:
       link: https://blog.pauby.com
   - name: Craig Porteous
     image_webp: ''
-    image: images/craig-porteous.jpg
+    image: images/craig-porteous-col.jpg
     designation: Hacktoberfest Scotland Organiser
     content: |-
       I'm a Senior Data Engineer and Microsoft Data Platform MVP. I have worked with the Data Platform for more than a decade, supporting global BI Environments, automating processes with PowerShell and implementing BI Solutions.
