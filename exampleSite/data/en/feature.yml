@@ -10,15 +10,15 @@ feature:
   - title: 12:00 to 12:15
     icon: ti-time
     content: A virtual mingle in our General Channel.
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: 12:15 to 12:30
+    icon: ti-time
+    content: Introduction from Craig and Paul in our General Channel.
+  - title: 12:30 to 13:30
+    icon: ti-time
+    content: Brett Miller - GitOps - Demystifying Git for Ops Folk
+  - title: 13:30 to 14:30
+    icon: ti-time
+    content: Chrissy LeMaire - GitHub Galore - My top 3 favorite new features!
+  - title: 14:30 to 15:30
+    icon: ti-time
+    content: Gary Park - Control your GitHub Releases with GitVersion and GitReleaseManager
