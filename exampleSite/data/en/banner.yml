@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/hacktoberfest-2020-banner.jpg"
+  bg_image_webp: "/images/hacktoberfest-2020-banner."
   bg_image: "/images/hacktoberfest-2020-banner.jpg"
   icon: ''
   title: Hacktoberfest Scotland
