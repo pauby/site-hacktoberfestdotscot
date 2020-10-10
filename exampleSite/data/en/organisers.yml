@@ -41,6 +41,18 @@ organisers:
       link: https://mvp.microsoft.com/en-us/mvp/Craig%20%20Porteous-5003301
     - icon: ti-home
       link: https://craigporteous.com/
+  - name: Ewa Grabowiecka
+    image_webp: ''
+    image: images/ewa-grabowiecka-col.jpg
+    designation: Hacktoberfest Scotland Helper
+    content: |-
+      I am a Software Developer with a love all things community and good code practices (I even run a meetup called CodeCraft). This is my 2nd hacktoberfest event and I'm keen to support others in contributing to open source!
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/ewa-grabowiecka-31655950
+    - icon: ti-home
+      link: https://www.codecraftuk.org/
+
 title: organisers.yml
 menu:
   main:
